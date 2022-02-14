@@ -1,4 +1,4 @@
-
+'use strict'
 const mysql = require("mysql")//Importamos la libreria mysql
 //Creamos la configuracion de la conexion
 const conexion = mysql.createConnection({
